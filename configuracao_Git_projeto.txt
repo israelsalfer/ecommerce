@@ -1,0 +1,9 @@
+$ git init
+
+$ git remote add origin git@github.com:israelsalfer/ecommerce.git
+
+$ git add --all
+
+$ git commit -m "inicio do projeto"
+
+$ git push origin master
